@@ -7,7 +7,7 @@ each identifed by at least one array index or key. The index of an array of size
 
 Note: Python does not have built-in support for arrays, but Python Lists can be used instead.
 
-Create an array containing mango names:
+Create an array containing fruit names:
 
     fruit = ['banana', 'orange', 'mango']
     
